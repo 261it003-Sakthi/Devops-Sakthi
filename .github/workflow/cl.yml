@@ -21,6 +21,5 @@ jobs:
             Write-Error "index.html does not exist!"
             exit 1
           }
- 
           
           Write-Host "Project files checked successfully!"
